@@ -1,0 +1,7 @@
+{
+  "name": "STOCKSTREAM QUANT — Market & Bitcoin Intelligence",
+  "description": "Real-time institutional-grade stock market and Bitcoin intelligence platform featuring technical forecasting, 13F ownership analytics, live pipeline monitoring, and quantitative trading research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
